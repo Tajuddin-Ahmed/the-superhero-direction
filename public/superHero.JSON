@@ -1,0 +1,119 @@
+[
+	{
+		"key": "B002RL8IYK",
+		"name": "Andrew Carnegie",
+		"role": "Industrialist",
+		"age": 83,
+		"country": "Scotland",
+		"sallary": 0.38,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/andrew-carnegie.jpg"
+	},
+	{
+		"key": "B01F4ZG68A",
+		"name": "Steve Jobs",
+		"role": "Co-Founder of Apple",
+		"age": 56,
+		"country": "USA",
+		"sallary": 6.1,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/steve-jobs.jpg"
+	},
+	{
+		"key": "B01LZ2WZGH",
+		"name": "Henry Ford",
+		"role": "Founder of Ford Motor",
+		"age": 83,
+		"country": "USA",
+		"sallary": 1.1,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/henry_ford2.jpg"
+	},
+	{
+		"key": "B01K1IO3QW",
+		"name": "Mark Zuckerberg",
+		"role": "Founder of Facebook",
+		"age": 37,
+		"country": "USA",
+		"sallary": 68,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/mark-zuckerberg8701.jpg"
+	},
+	{
+		"key": "B01LD4MGY4",
+		"name": "Jeff Bezos",
+		"role": "Founder of amazon",
+		"age": 57,
+		"country": "USA",
+		"sallary": 117.2,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/bezos1.jpg"
+	},
+	{
+		"key": "B01M18UZF5",
+		"name": "William “Bill” Gates",
+		"role": "Co-Founder of Microsoft",
+		"age": 76,
+		"country": "USA",
+		"sallary": 98,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/Bill-Gates.jpg"
+	},
+	{
+		"key": "B01DBGVB7K",
+		"name": "Larry Page",
+		"role": "Co-Founder of Google",
+		"age": 48,
+		"country": "Michigan, USA",
+		"sallary": 58.3,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/larry-page.jpg"
+	},
+	{
+		"key": "B015WXL0C6",
+		"name": "Sergey Brin",
+		"role": "Co-Founder of Google",
+		"age": 48,
+		"country": "Moscow, Russia",
+		"sallary": 56.2,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/sergey-brin.jpg"
+	},
+	{
+		"key": "B01D27ERMO",
+		"name": "Sir Richard Branson",
+		"role": "Industrialist",
+		"age": 71,
+		"country": "England, UK",
+		"sallary": 4.4,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/richard-branson1.jpg"
+	},
+	{
+		"key": "B06Y4GZS9C",
+		"name": "Thomas Alva Edison",
+		"role": "Father of Electric bulb",
+		"age": 84,
+		"country": "Ohio, USA",
+		"sallary": 0.012,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/Thomas-Edison1.jpg"
+	},
+	{
+		"key": "B06XJJG4PD",
+		"name": "Arianna Huffington",
+		"role": "Co-Founder of Huffington Post",
+		"age": 71,
+		"country": "Athens, Greece",
+		"sallary": 0.06,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/ariana-huffington.jpg"
+	},
+	{
+		"key": "B01NBE6Y5D",
+		"name": "Peter Jones",
+		"role": "Young Entrepreneurs",
+		"age": 55,
+		"country": "United Kingdom",
+		"sallary": 0.485,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/peterjones.jpg"
+	},
+	{
+		"key": "B01J42JPJG",
+		"name": "Penny Streeter",
+		"role": "Creating Employment Opportunities",
+		"age": 54,
+		"country": "Zimbabwe",
+		"sallary": 0.208,
+		"img": "https://www.incomediary.com/wp-content/uploads/2010/10/Penny-Streeter.jpg"
+	}
+]

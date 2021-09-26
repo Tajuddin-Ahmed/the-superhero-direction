@@ -1,0 +1,11 @@
+.superheros-container{
+    display: grid;
+    grid-template-columns: 3.9fr 1.4fr;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.superhero-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
